@@ -39,3 +39,8 @@
 + **Educational Resource:** The application raises awareness about UV radiation and its potential effects on skin health, fostering a more informed public.
 
 # 🤖 Future Work 
+
+- **Improve the phone case to be user-friendly.**
+- **Using Machine learning to analyze reponse data.**
+- **The map shows the locations of health centers.**
+- **Supports flexible health by providing indicators( temperature, define dust, etc)**
