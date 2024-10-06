@@ -37,3 +37,5 @@
 + **Encouragement of Outdoor Activities:** By empowering users with knowledge, UVita encourages safe outdoor experiences, promoting a healthier lifestyle while enjoying nature.
 
 + **Educational Resource:** The application raises awareness about UV radiation and its potential effects on skin health, fostering a more informed public.
+
+# 🤖 Future Work 
