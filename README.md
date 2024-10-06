@@ -26,6 +26,9 @@
 
 # 📍 UVita MAPPING
 
+![image](https://github.com/user-attachments/assets/a11d9385-812d-49ec-95f2-47194343cda2)
+
+
 # 📱 OUR APPLICATION 
 
 ![BATTERY (2)](https://github.com/user-attachments/assets/93c515ec-4766-4c0c-a75e-d28deb5ad590)
