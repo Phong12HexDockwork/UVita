@@ -1,4 +1,5 @@
-![Thiết kế chưa có tên (2)](https://github.com/user-attachments/assets/e58b2e9f-defb-4928-9a23-520170b613a6)
+
+![HC 07](https://github.com/user-attachments/assets/63b4fe7e-5e0b-4766-b19f-c1a20b938925)
 
 # 🚀 WHAT IS UVITA ?
 
