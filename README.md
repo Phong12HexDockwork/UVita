@@ -52,6 +52,10 @@
 
 + **Educational Resource:** The application raises awareness about UV radiation and its potential effects on skin health, fostering a more informed public.
 
+# ⚡ ONE MORE THING
+
+![BATTERY](https://github.com/user-attachments/assets/6330d979-beef-448d-b1da-1e3760a1a160)
+
 # 🤖 Future Work 
 
 - **Improve the phone case to be user-friendly.**
