@@ -48,3 +48,4 @@
 - **The map shows the locations of health centers.**
 - **Supports flexible health by providing indicators( temperature, define dust, etc)**
 - **Build a sales system based on advice for users**
+- **Notify users about nearby health events or provide health-related knowledge.**
