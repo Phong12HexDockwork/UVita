@@ -30,6 +30,7 @@
 
 ![BATTERY (5)](https://github.com/user-attachments/assets/25d95bcc-c08e-4594-b92d-31a6e5312670)
 
+     Our goal is to enhance public understanding of UV radiation and its associated risks through the UVita application. By providing users with accurate, real-time data, we aim to foster a culture of proactive sun safety, ultimately reducing the incidence of UV-related skin damage and skin cancer. We also hope to contribute to broader public health initiatives by encouraging responsible sun exposure habits and increasing awareness of the importance of skin health.
 
 # 📱 OUR APPLICATION 
 
