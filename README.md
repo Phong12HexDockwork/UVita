@@ -7,4 +7,4 @@
 
 # HOW DOES IT WORK ?
 
-The UVita system operates through a seamless integration of various hardware components, ensuring reliable and accurate data transmission. The process begins when sunlight, containing UV radiation, approaches the integrated UV and light sensors located within the specially designed phone case. Here’s a detailed breakdown of how the system works:
+     The UVita system operates through a seamless integration of various hardware components, ensuring reliable and accurate data transmission. The process begins when sunlight, containing UV radiation, approaches the integrated UV and light sensors located within the specially designed phone case. Here’s a detailed breakdown of how the system works:
