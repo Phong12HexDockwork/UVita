@@ -55,6 +55,9 @@
 
 ![BATTERY](https://github.com/user-attachments/assets/6330d979-beef-448d-b1da-1e3760a1a160)
 
+
+     NASA serves as a vital source of scientific data, providing information on space, climate, and natural disasters. Additionally, NASA collaborates with government agencies to disseminate public health knowledge and issue early warnings for impending natural disasters. This system plays a crucial role in delivering timely and accurate information, supporting disaster preparedness and response efforts, while also raising awareness about public health initiatives and the proactive approach helps enhancing their ability to respond to emergencies and make well-informed decisions.
+
 # 🤖 Future Work 
 
 - **Improve the phone case to be user-friendly.**
