@@ -73,4 +73,8 @@
 **Frameworks & Library**
 ![1](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![2](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![3](https://img.shields.io/badge/cytoscape%20js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000) ![4](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![5](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
+**Mobile Frameworks**
+![1](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![2](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+**Terminal** 
+![1](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![2](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
