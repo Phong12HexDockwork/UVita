@@ -10,6 +10,8 @@
 
      The UVita system operates through a seamless integration of various hardware components, ensuring reliable and accurate data transmission. The process begins when sunlight, containing UV radiation, approaches the integrated UV and light sensors located within the specially designed phone case. Here’s a detailed breakdown of how the system works:
      
+[DOWNLOAD](https://github.com/Phong12HexDockwork/UVita/tree/main/Application%20Product/Source/File_Installation)
+!!!REQUIREMENT: Android 7 Nougat
 
 ![BATTERY (7)](https://github.com/user-attachments/assets/f21479a1-3081-4db1-b7ca-476640167648)
 
