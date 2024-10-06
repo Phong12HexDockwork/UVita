@@ -8,3 +8,15 @@
 # HOW DOES IT WORK ?
 
      The UVita system operates through a seamless integration of various hardware components, ensuring reliable and accurate data transmission. The process begins when sunlight, containing UV radiation, approaches the integrated UV and light sensors located within the specially designed phone case. Here’s a detailed breakdown of how the system works:
+
+- **ML8511 UV Sensor:** For measuring UV radiation.
+
+- **TSL2561 Light Sensor:** For measuring ambient light conditions.
+
+- **Arduino Pro Mini:** Central processing unit for data interpretation.
+
+- **Bluetooth Module (e.g., HC-05):** For wireless communication with smartphones.
+
+- **3.3V Buck-Boost Voltage Regulator:** Ensures stable voltage supply.
+
+- **Rechargeable Battery:** Powers the entire system.
