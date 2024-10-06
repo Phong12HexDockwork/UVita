@@ -27,7 +27,7 @@
 
 # 📱 OUR APPLICATION 
 
-![BATTERY (1)](https://github.com/user-attachments/assets/2664fdfb-8954-42a1-bfab-1500f90ddd2e)
+![BATTERY (2)](https://github.com/user-attachments/assets/93c515ec-4766-4c0c-a75e-d28deb5ad590)
 
 + **Real-Time Awareness:** Users gain immediate access to information about UV exposure, allowing them to make informed decisions regarding sun safety.
 
