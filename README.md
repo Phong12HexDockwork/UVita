@@ -47,3 +47,4 @@
 - **Using Machine learning to analyze reponse data.**
 - **The map shows the locations of health centers.**
 - **Supports flexible health by providing indicators( temperature, define dust, etc)**
+- **Build a sales system based on advice for users**
