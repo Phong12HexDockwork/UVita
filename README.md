@@ -33,7 +33,7 @@
 
 # 📱 OUR APPLICATION 
 
-![Uploading BATTERY (6).png…]()
+![BATTERY (6)](https://github.com/user-attachments/assets/852fc4b6-264f-4fd9-b530-3c9c64fc7521)
 
 
 
