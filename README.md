@@ -7,7 +7,7 @@
      
 [DOWNLOAD](https://github.com/Phong12HexDockwork/UVita/tree/main/Application%20Product/Source/File_Installation)
 
-**+ REQUIREMENT: Android 7 Nougat**
+**+ REQUIREMENT: Android 7+**
 
 # ⚙ HOW DOES IT WORK ?
 
