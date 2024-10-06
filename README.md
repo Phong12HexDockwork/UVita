@@ -20,3 +20,5 @@
 - **3.3V Buck-Boost Voltage Regulator:** Ensures stable voltage supply.
 
 - **Rechargeable Battery:** Powers the entire system.
+
+# 📍 UVita MAPPING
