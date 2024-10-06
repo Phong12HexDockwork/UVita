@@ -38,8 +38,7 @@
 
 # 📱 OUR APPLICATION 
 
-
-![BATTERY (9)](https://github.com/user-attachments/assets/ebf13ce9-f1fe-4c21-991b-af6e1223a826)
+![BATTERY (1)](https://github.com/user-attachments/assets/85c18281-2608-45c3-88aa-369c6b2923cf)
 
 ![BATTERY (8)](https://github.com/user-attachments/assets/27a1a2e3-4ee2-40b8-aa2f-a2d411ba8909)
 
