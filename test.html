@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Leaflet Heatmap Example</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map { height: 1000px; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  
+  <script>
+    // Initialize the map and set its view
+    var map = L.map('map').setView([10.816060, 106.668889], 17);  // Adjust zoom for better visibility
+
+    // Add a tile layer to the map (OpenStreetMap)
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Heatmap data array
+    var heatmapData = [];
+
+    // Function to add data to the heatmap
+    function addDataToHeatmap(lat, lon, intensity) {
+      heatmapData.push([lat, lon, intensity]);
+    }
+
+    // Load CSV data
+    Papa.parse('updated_coordinates_with_uv.csv', {
+      download: true,
+      header: true,
+      complete: function(results) {
+        // Process each row of the CSV
+        results.data.forEach(function(row) {
+          // Convert values to float and add to heatmap data
+          var lat = parseFloat(row.Latitude);
+          var lon = parseFloat(row.Longitude);
+          var uvIndex = parseFloat(row['UV'])*1.6;
+
+          console.log(lat)
+          
+          // Add to heatmap data with UV Index as intensity
+          addDataToHeatmap(lat, lon, uvIndex);
+        });
+
+        // Create and add the heatmap layer after the data is loaded
+        var heat = L.heatLayer(heatmapData, {
+          radius: 10,   // Larger radius for visibility
+          blur: 25,     // Increased blur effect
+          maxZoom: 17,  // Max zoom for heatmap to be visible
+          minOpacity: 0.2  // Minimum opacity for lower-intensity points
+        }).addTo(map);
+      }
+    });
+  </script>
+</body>
+</html>
