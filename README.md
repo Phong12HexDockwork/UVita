@@ -8,6 +8,8 @@
 # ⚙ HOW DOES IT WORK ?
 
      The UVita system operates through a seamless integration of various hardware components, ensuring reliable and accurate data transmission. The process begins when sunlight, containing UV radiation, approaches the integrated UV and light sensors located within the specially designed phone case. Here’s a detailed breakdown of how the system works:
+     
+![BATTERY](https://github.com/user-attachments/assets/92967362-c387-46ae-b37b-8a2f01af0b5d)
 
 - **ML8511 UV Sensor:** For measuring UV radiation.
 
